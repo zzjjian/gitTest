@@ -7,5 +7,3 @@ fff
 ggg
 ccc
 eec
-oo3
-000
